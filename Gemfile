@@ -31,7 +31,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 #For ES6 support
-gem 'webpacker', git: 'https://github.com/rails/webpacker.git'
+#gem 'webpacker', git: 'https://github.com/rails/webpacker.git'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails', '>= 4.3.5'
