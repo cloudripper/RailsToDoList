@@ -209,8 +209,6 @@ GEM
     turbolinks-source (5.2.0)
     tzinfo (1.2.9)
       thread_safe (~> 0.1)
-    uglifier (4.2.0)
-      execjs (>= 0.3.0, < 3)
     web-console (4.1.0)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
@@ -244,7 +242,6 @@ DEPENDENCIES
   sqlite3
   turbolinks (~> 5.2.1)
   tzinfo-data
-  uglifier (>= 4.2.0)
   web-console (>= 4.0.1)
   webpacker!
 
